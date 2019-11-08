@@ -1,2 +1,2 @@
-Write-Host "test. Hello every one"
+Write-Host "Test. Hello every one"
 
